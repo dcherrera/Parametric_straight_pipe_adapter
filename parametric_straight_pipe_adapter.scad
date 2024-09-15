@@ -16,7 +16,7 @@
 //connector();
 adapter();
 
-idsmall=90;
+idsmall=89.5;
 idlarge=98;
 
 
